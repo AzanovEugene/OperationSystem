@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(44): error C2440: =: невозможно преобразовать "LPCSTR" в "LPCWSTR"
+  c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(44): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(68): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "LPCSTR" в "LPCWSTR"
+  c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(68): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(73): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "LPCSTR" в "LPCWSTR"
+  c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(73): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(77): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "LPCSTR" в "LPCWSTR"
+  c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(77): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(109): error C2664: "int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)": невозможно преобразовать аргумент 2 из "LPCSTR" в "LPCWSTR"
+  c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(109): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(133): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [43]" в "LPCWSTR"
+  c:\users\zukut\desktop\1 лаба\1 лаба\source.cpp(133): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
