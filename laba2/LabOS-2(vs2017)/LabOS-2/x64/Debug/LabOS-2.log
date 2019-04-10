@@ -1,0 +1,6 @@
+﻿  LabOS-2.cpp
+d:\teach\ос\laba2\labos-2(vs2017)\labos-2\resource.h(18): warning C4005: IDOK: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(10853): note: см. предыдущее определение "IDOK"
+d:\teach\ос\laba2\labos-2(vs2017)\labos-2\resource.h(19): warning C4005: IDCANCEL: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(10854): note: см. предыдущее определение "IDCANCEL"
+  LabOS-2.vcxproj -> D:\Teach\ОС\laba2\LabOS-2(vs2017)\x64\Debug\LabOS-2.exe
